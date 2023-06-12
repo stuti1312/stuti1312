@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Stuti Singhal.
 - I'm graduated from Banasthali VidyapIth in 2020.
-- I’m interested in ReactJS/Front-end Dveloper role.
-- I’m currently learning MERN technologies but, currently I'm good at front-end technologies like HTML, CSS, JavaScript, ReactJS, Bootstrap.
-- 💞️ I’m looking forward to work with start up companies as a boost to my career.
+- I’m interested in Front-end Development.
+- I’m currently working as react-native developer but, I'm good at front-end technologies like HTML, CSS, JavaScript, ReactJS, Bootstrap.
+- 💞️ I’m looking forward to work with start up companies as to boost my career.
 - 📫 Reach me via:
                 -  stutisinghal1312@gmail.com
                 -  https://www.linkedin.com/in/stuti-s1312/
